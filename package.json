@@ -2,11 +2,12 @@
   "name": "mixcloud-cue-sheet-fixer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/rikutech/mixcloud-cue-sheet-fixer",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
   },
   "dependencies": {
     "@types/node": "20.5.7",
